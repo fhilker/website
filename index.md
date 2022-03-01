@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Frank M. Hilker
 ---
 
 # Your Lab Slogan

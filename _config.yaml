@@ -1,8 +1,8 @@
 ### basic settings
 
 # site properties and page defaults
-title: Lab Website Template
-description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
+title: Frank M. Hilker
+description: Website of Frank Hilker - Osnabrück University
 logo: images/logo.svg
 header: images/background.jpg
 footer: images/background.jpg
@@ -10,8 +10,8 @@ baseurl: /lab-website-template
 
 # site social media and other links
 links:
-  email: jane.smith@your-lab.com
-  google-scholar: Jane Smith
+  email: frank.hilker@uni-osnabrueck.de
+  google-scholar: fL0h-yIAAAAJ
   github: your-lab
   twitter: YourLabHandle
   instagram: YourLabHandle
@@ -22,9 +22,12 @@ links:
 # automatic citations
 auto-cite:
   plugins:
+    - name: orcid
+      input:
+        - ../_data/orcid.yaml
     - name: sources
       input:
-        - ../_data/sources.yaml
+        - ../data/sources.yaml
   output: ../_data/citations.yaml
 
 # default front matter parameters for markdown files

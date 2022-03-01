@@ -1,8 +1,8 @@
 ---
-title: Tools
+title: Teaching
 nav:
-  order: 2
-  tooltip: Software, datasets, and more
+  order: 4
+  tooltip: Courses
 ---
 
 # <i class="fas fa-tools"></i>Tools

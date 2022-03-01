@@ -1,16 +1,16 @@
 ---
-name: Upton O. Goode
+name: Frank M. Hilker
 image: images/member.jpg
 description: Bone Investigator
 role: pi
 aliases:
-  - U. Goode
-  - U. O. Goode
-  - U Goode
+  - F. Hilker
+  - F. M. Hilker
+  - F Hilker
 links:
-  orcid: 0000-0001-8713-9213
-  email: upton@ogoode.com
-  twitter: uptonogoode
+  orcid: 0000-0001-5470-8889
+  email: frank.hilker@uni-osnabrueck.de
+  twitter: FrankHilker
 ---
 
 Upton is a good dog.
