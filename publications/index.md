@@ -14,12 +14,12 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 
 {% include section.html %}
 
-{% include search-box.html %}
+<script src="https://bibbase.org/show?bib=fhilker.github.com/website/bib/references_fh.bib&jsonp=1&authorFirst=1&nocache=1&commas=true&noIndex=true&sort=author_short"></script>
 
-{% include search-info.html %}
+#{% include search-box.html %}
 
-{% include list.html data="citations" component="citation" style="rich" %}
+#{% include search-info.html %}
 
-{% include list.html data="citations" component="citation" filter="page: " %} 
+#{% include list.html data="citations" component="citation" style="rich" %}
 
-{% include list.html data="citations" component="citation" filter="page: frank-hilker" %}
+

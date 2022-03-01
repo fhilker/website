@@ -21,3 +21,23 @@ programmer:
 mascot:
   icon: fas fa-dog
   text: Mascot
+  
+counsel:
+  icon: fas fa-person-sign
+  text: counsellor
+  
+teacher:
+  icon: fas fa-chalkboard-user
+  text: Instructor
+  
+sysadmin:
+  icon: fas-desktop
+  text: System administrator
+
+secretary:
+  icon: fa-folder-open
+  text: Administration
+  
+gis:
+  icon: fa-globe
+  text: GIS specialist
