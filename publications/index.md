@@ -2,10 +2,10 @@
 title: Publications
 nav:
   order: 1
-  tooltip: Published works
+  tooltip: List of papers et al.
 ---
 
-# <i class="fas fa-microscope"></i>Publications
+# <i class="fas fa-book-open"></i>Publications
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
@@ -14,12 +14,9 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 
 {% include section.html %}
 
-<script src="https://bibbase.org/show?bib=https://fhilker.github.io/website/bib/references_fh.bib&jsonp=1&authorFirst=1&nocache=1&commas=true&noIndex=true&sort=author_short"></script>
-
-<!--{% include search-box.html %}
+{% include search-box.html %}
 
 {% include search-info.html %}
 
-{% include list.html data="citations" component="citation" style="rich" %}-->
-
+{% include list.html data="citations" component="citation" style="rich" %}
 

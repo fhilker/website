@@ -1,3 +1,7 @@
+prof:
+  icon: fas fa-microscope
+  text: Professor
+  
 pi:
   icon: fas fa-microscope
   text: Principal Investigator
@@ -27,17 +31,17 @@ counsel:
   text: counsellor
   
 teacher:
-  icon: fas fa-chalkboard-user
+  icon: fas fa-chalkboard-teacher
   text: Instructor
   
 sysadmin:
-  icon: fas-desktop
+  icon: fas fa-desktop
   text: System administrator
 
 secretary:
-  icon: fa-folder-open
+  icon: fas fa-folder-open
   text: Administration
   
 gis:
-  icon: fa-globe
+  icon: fas fa-globe
   text: GIS specialist
